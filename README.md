@@ -1,4 +1,4 @@
-# Challenge-Telecom-X-an-lise-de-evas-o-de-clientes
+# Challenge-Telecom-X-analise-de-evasao-de-clientes
 📊 Análise de Churn de Clientes TelecomX
 Este projeto tem como objetivo principal conduzir uma análise aprofundada sobre a evasão de clientes (churn) da empresa Telecom X. Através da identificação de padrões de comportamento e características dos clientes que demonstram maior propensão ao cancelamento de serviços, busca-se subsidiar a empresa na formulação de estratégias de retenção eficazes.
 
